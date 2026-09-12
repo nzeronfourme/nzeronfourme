@@ -4,8 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&pause=1000&color=FFFFFF70&center=true&width=435&lines=AI+%C2%B7+Automation+%C2%B7+Tools;Building+apps+with+AI-agents)](https://git.io/typing-svg)
 
-`portfolio / nzeronfourme.txt`
-
 # nzeronfourme
 
 AI · Automation · Tools
