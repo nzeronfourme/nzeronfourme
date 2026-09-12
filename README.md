@@ -8,12 +8,3 @@
 my site, works and about — all there
 
 </div>
-
----
-
-### `about / manifesto.txt`
-
-```txt
-Beginner dev building apps and automation with AI-agents.
-MovieShort-AI in prod, Avito-scout in dev.
-Learning by shipping.
