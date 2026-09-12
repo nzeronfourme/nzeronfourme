@@ -1,16 +1,26 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**nzeronfourme/nzeronfourme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=waving&color=0a0a0a&height=120&section=header&text=nzeronfourme&fontColor=ffffff&fontSize=38&fontAlignY=32)
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&pause=1000&color=FFFFFF70&center=true&width=435&lines=AI+%C2%B7+Automation+%C2%B7+Tools;Building+apps+with+AI-agents)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`portfolio / nzeronfourme.txt`
+
+# nzeronfourme
+
+AI · Automation · Tools
+
+### [↗ nzeronfourme.vercel.app](https://nzeronfourme.vercel.app/)
+
+my site, works and about — all there
+
+</div>
+
+---
+
+### `about / manifesto.txt`
+
+```txt
+Beginner dev building apps and automation with AI-agents.
+MovieShort-AI in prod, Avito-scout in dev.
+Learning by shipping.
