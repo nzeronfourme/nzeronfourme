@@ -32,6 +32,6 @@ site    nzeronfourme.vercel.app
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=nzeronfourme&amp;show_icons=true&amp;hide_rank=true&amp;hide=prs,issues,contribs&amp;custom_title=public+stats&amp;bg_color=0b0b0b&amp;border_color=262626&amp;title_color=f2f0ea&amp;text_color=a8a49c&amp;icon_color=f2f0ea" alt="GitHub stats"></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nzeronfourme&amp;layout=compact&amp;langs_count=8&amp;bg_color=0b0b0b&amp;border_color=262626&amp;title_color=f2f0ea&amp;text_color=a8a49c" alt="Top languages"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nzeronfourme&amp;layout=compact&amp;langs_count=8&amp;custom_title=top+languages&amp;bg_color=0b0b0b&amp;border_color=262626&amp;title_color=f2f0ea&amp;text_color=a8a49c" alt="Top languages"></p>
 
 <p align="center"><a href="https://nzeronfourme.vercel.app/"><code>nzeronfourme.vercel.app</code></a></p>
